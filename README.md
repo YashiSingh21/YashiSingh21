@@ -1,6 +1,6 @@
-<!-- Glowing Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/ybH8QJj.gif" width="100%" alt="Glowing Tech Banner"/>
+  <img src="assets/banner.gif" width="100%" alt="Yashi Singh Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Yashi Singh</h1>
@@ -19,7 +19,6 @@
 
 ## 🛠 Skills
 <p align="center">
-  <!-- Animated Icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,kotlin,java,python,flask,bootstrap" />
   <br>
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-%23412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -29,9 +28,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashiSingh21&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashiSingh21&theme=radical&hide_border=true" alt="GitHub streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YashiSingh21&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashiSingh21&theme=radical&hide_border=true" height="165"/>
 </p>
+
+---
+
+<!-- ## 🚀 Featured Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [repocourse](#) | Online course repository system | React, Node.js |
+| [ragify](#) | AI-based content generator | Python, Flask |
+| [comicverse](#) | Comic book e-commerce platform | React, Express, MySQL |
+-->
 
 ---
 
@@ -42,10 +51,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Last%20Updated-Today-brightgreen?style=for-the-badge" />
