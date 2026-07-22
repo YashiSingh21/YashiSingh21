@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Yashi Singh</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Android+App+Developer;AI+Engineer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F9FF&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Engineer" alt="Typing Animation" />
 </h3>
 
 ---
