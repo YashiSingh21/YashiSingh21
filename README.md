@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 💻 Passionate Software Engineer specialized in building **dynamic, scalable, and intelligent** applications.  
-💡 Skilled in Full Stack Development, Android Apps, and Artificial Intelligence.  
+💡 Skilled in Artificial Intelligence.  
 🎯 Constantly exploring **cutting-edge tech** to create impactful solutions.  
 
 ---
