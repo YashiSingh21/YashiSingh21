@@ -75,24 +75,6 @@ Currently building projects in:
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashiSingh21&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashiSingh21&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashiSingh21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -101,7 +83,7 @@ Currently building projects in:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yashisingh@example.com">
+<a href="yashisinghcse@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
