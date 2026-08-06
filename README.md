@@ -134,11 +134,8 @@ I'm continuously expanding my knowledge in **Business Intelligence, Data Visuali
 | Project | Description | Technologies |
 |----------|-------------|-------------|
 | 🚑 Disaster Relief Logistics Analytics | End-to-end operational analytics dashboard for disaster response management | Python, SQL, Power BI |
-| 🏦 Digital Banking Fraud Risk Analytics | Banking fraud detection and customer risk analysis dashboard | SQL, MySQL, Power BI |
 | 🔐 Cybersecurity Threat Analytics | Interactive cybersecurity intelligence dashboard | Power BI, SQL |
 | 🛒 E-Commerce Store Analysis | Business intelligence dashboard for sales performance and customer insights | Power BI, Excel |
-| ❤️ LifeLine | Healthcare web application for patient assistance | HTML, CSS, JavaScript, React |
-| 📚 CourseTutorAI | Educational frontend web application | HTML, CSS, JavaScript, React |
 
 ---
 
