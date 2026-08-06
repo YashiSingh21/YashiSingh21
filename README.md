@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Yashi Singh</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+%7C+Power+BI+%7C+Python;Transforming+Data+into+Business+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Business+Analyst;Frontend+Developer;SQL+%7C+Power+BI+%7C+Python+%7C+React;Transforming+Data+into+Business+Insights;Always+Learning+🚀" alt="Typing SVG"/>
 </h3>
 
 <p align="center">
@@ -24,26 +24,29 @@
 
 ---
 
-# 📊 About Me
+# 👩‍💻 About Me
 
-I'm an **aspiring Data Analyst** with a passion for turning raw data into meaningful business insights.
+I'm a **Computer Science Engineering graduate** passionate about **Data Analytics, Business Intelligence, and Frontend Development**.
 
-I enjoy solving real-world business problems through **SQL, Power BI, Python, and Excel**, creating interactive dashboards, analyzing trends, and helping organizations make data-driven decisions.
+My journey began with developing responsive web applications using **HTML, CSS, JavaScript, and React**, where I built a solid foundation in problem-solving and user-focused design.
 
-Currently expanding my expertise in **Business Intelligence, Data Visualization, Analytics Engineering, and Business Analysis** while building practical end-to-end analytics projects.
+As I explored data-driven decision-making, my interest shifted toward analytics. Today, I enjoy transforming raw data into meaningful business insights using **SQL, Power BI, Python, Excel, and DAX** by building interactive dashboards and solving real-world business problems.
+
+I'm continuously expanding my knowledge in **Business Intelligence, Data Visualization, Data Modeling, Business Analytics, and Data Engineering** while building end-to-end analytics projects.
 
 ---
 
 # 💡 What I Do
 
-* 📊 Build Interactive Power BI Dashboards
-* 📈 Analyze Business Performance
-* 🗄 Write Advanced SQL Queries
-* 📉 Create KPI Reports
-* 📌 Clean & Transform Data
-* 📊 Design Business Dashboards
-* 📈 Generate Actionable Insights
-* 🎯 Solve Business Problems Using Data
+- 📊 Build Interactive Power BI Dashboards
+- 📈 Analyze Business Performance
+- 🗄 Write SQL Queries
+- 📉 Create KPI Reports
+- 📌 Clean & Transform Data
+- 📊 Design Interactive Dashboards
+- 🌐 Develop Responsive Web Applications
+- ⚛ Build Frontend Applications using React
+- 📈 Transform Data into Actionable Insights
 
 ---
 
@@ -69,13 +72,31 @@ Currently expanding my expertise in **Business Intelligence, Data Visualization,
 
 ---
 
-## 🐍 Programming
+## 💻 Programming Languages
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 
 </p>
+
+---
+
+## 🌐 Frontend Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react"/>
+
+</p>
+
+**Skills**
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React (Basic)
+- Responsive Web Design
 
 ---
 
@@ -107,25 +128,27 @@ Currently expanding my expertise in **Business Intelligence, Data Visualization,
 
 # 🚀 Featured Projects
 
-| Project                                 | Description                                                                 | Technologies              |
-| --------------------------------------- | --------------------------------------------------------------------------- | ------------------------- |
-| 🏦 Digital Banking Fraud Risk Analytics | End-to-end fraud analytics dashboard with customer & merchant risk analysis | SQL, MySQL, Power BI, DAX |
-| 📈 Sales Performance Dashboard          | Business KPI dashboard for revenue, profit & sales insights                 | Power BI, Excel           |
-| 👥 HR Analytics Dashboard               | Employee attrition & workforce analytics                                    | SQL, Power BI             |
-| 🛒 Customer Segmentation Analysis       | Customer behaviour analysis using Python                                    | Python, Pandas            |
-| 📊 SQL Business Case Studies            | Collection of business-focused SQL queries                                  | SQL                       |
+| Project | Description | Technologies |
+|----------|-------------|-------------|
+| 🚑 Disaster Relief Logistics Analytics | End-to-end operational analytics dashboard for disaster response management | Python, SQL, Power BI |
+| 🏦 Digital Banking Fraud Risk Analytics | Banking fraud detection and customer risk analysis dashboard | SQL, MySQL, Power BI |
+| 🔐 Cybersecurity Threat Analytics | Interactive cybersecurity intelligence dashboard | Power BI, SQL |
+| 🛒 E-Commerce Store Analysis | Business intelligence dashboard for sales performance and customer insights | Power BI, Excel |
+| ❤️ LifeLine | Healthcare web application for patient assistance | HTML, CSS, JavaScript, React |
+| 📚 CourseTutorAI | Educational frontend web application | HTML, CSS, JavaScript, React |
 
 ---
 
 # 📚 Currently Learning
 
-* Advanced SQL Optimization
-* Power BI Service
-* Data Warehousing
-* Data Modeling
-* Business Analytics
-* Statistics for Data Analysis
-* Machine Learning Fundamentals
+- Advanced SQL
+- Power BI Service
+- Data Warehousing
+- Data Modeling
+- Business Analytics
+- Statistics for Data Analysis
+- Python for Data Analysis
+- React Ecosystem
 
 ---
 
@@ -159,13 +182,14 @@ Currently expanding my expertise in **Business Intelligence, Data Visualization,
 
 # 🎯 Career Goal
 
-> To leverage data analytics and business intelligence to solve real-world business challenges, improve decision-making, and create measurable impact through actionable insights.
+> To build impactful solutions by combining **Data Analytics**, **Business Intelligence**, and **Software Development**, enabling organizations to make smarter decisions through data-driven insights and intuitive digital experiences.
 
 ---
 
 # 💬 Favorite Quote
 
 > **"Without data, you're just another person with an opinion."**
+>
 > — W. Edwards Deming
 
 ---
@@ -190,7 +214,7 @@ Currently expanding my expertise in **Business Intelligence, Data Visualization,
 
 ⭐ **Thanks for visiting my profile!**
 
-I love transforming data into actionable insights and building dashboards that help businesses make smarter decisions.
+I'm passionate about building **data-driven solutions**, creating **interactive dashboards**, and developing **user-friendly web applications** that solve real-world problems.
 
 Let's connect, collaborate, and grow together! 🚀
 
