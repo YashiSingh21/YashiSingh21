@@ -7,7 +7,10 @@
 <h1 align="center">Hi 👋, I'm Yashi Singh</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00B4D8&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Business+Analyst;Frontend+Developer;SQL+%7C+Power+BI+%7C+Python+%7C+React;Transforming+Data+into+Business+Insights;Always+Learning+🚀" alt="Typing SVG"/>
+ <img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;SQL+Developer;Power+BI+Enthusiast;Python+Programmer"
+  alt="Typing SVG"
+/>
 </h3>
 
 <p align="center">
